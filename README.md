@@ -1,4 +1,6 @@
 
+![Bank Marketing](workspace\notebook\data\images\BankMarketing.jpg)
+
 ---
 
 # Bank Marketing: Term Deposits Classification 📊
