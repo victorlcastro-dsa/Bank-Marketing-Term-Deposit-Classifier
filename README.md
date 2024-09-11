@@ -11,15 +11,15 @@ This project aims to classify whether a client will subscribe to a term deposit 
 
 ![Diagram](workspace/notebook/data/images/Diagram.jpg)
 
-1. [Frame the Problem and Look at the Big Picture](#frame-the-problem-and-look-at-the-big-picture)
-2. [Get the Data](#get-the-data)
-3. [Explore the Data](#explore-the-data)
-4. [Prepare the Data](#prepare-the-data)
-5. [Short-List Promising Models](#short-list-promising-models)
-6. [Fine-Tune the System](#fine-tune-the-system)
-7. [Present Your Solution](#present-your-solution)
-8. [Launch](#launch)
-9. [How to Run the Project](#how-to-run-the-project)
+1. [Frame the Problem and Look at the Big Picture](#frame-the-problem-and-look-at-the-big-picture-)
+2. [Get the Data](#get-the-data-)
+3. [Explore the Data](#explore-the-data-)
+4. [Prepare the Data](#prepare-the-data-️)
+5. [Short-List Promising Models](#short-list-promising-models-)
+6. [Fine-Tune the System](#fine-tune-the-system-)
+7. [Present Your Solution](#present-your-solution-)
+8. [Launch](#launch-)
+9. [How to Run the Project](#how-to-run-the-project-️)
 
 ## Frame the Problem and Look at the Big Picture 🔍
 
